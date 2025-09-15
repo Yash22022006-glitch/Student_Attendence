@@ -1,0 +1,7 @@
+{
+  "name": "Smart Attendance System",
+  "description": "An intelligent system to track student attendance using simulated facial recognition, providing analytics and reports for educators and parents.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
